@@ -1,0 +1,188 @@
+<!doctype html>
+<html class="no-js" lang="th">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="apple-touch-icon" href="../images/apple-touch-icon.png">
+    <!-- Place favicon.ico in the root directory -->
+
+    <meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="dns-prefetch" href="//f.btwcdn.com">
+<link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+<link rel="preload" href="https://sajikacash.bentoweb.com/frontend/fonts/Lato-Medium.woff2" as="font" crossorigin>
+<link rel="preload" href="https://sajikacash.bentoweb.com/frontend/fonts/Simple-Line-Icons.woff2" as="font" crossorigin>
+<link rel="preload" href="https://sajikacash.bentoweb.com/frontend/fonts/Kanit-Regular.ttf" as="font" crossorigin>
+
+<title>404: เราหาหน้านี้ไม่เจอ - SAJIKA CASH</title><meta name="description" content="หน้าที่คุณกำลังค้นหาไม่มีอยู่ กรุณาตรวจสอบ link อีกครั้ง หรือกดปุ่ม กลับสู่หน้าหลักด้านล่าง">
+<meta property="og:title" content="404: เราหาหน้านี้ไม่เจอ"><meta property="og:description" content="หน้าที่คุณกำลังค้นหาไม่มีอยู่ กรุณาตรวจสอบ link อีกครั้ง หรือกดปุ่ม กลับสู่หน้าหลักด้านล่าง">
+<meta name="twitter:title" content="404: เราหาหน้านี้ไม่เจอ"><meta name="twitter:description" content="หน้าที่คุณกำลังค้นหาไม่มีอยู่ กรุณาตรวจสอบ link อีกครั้ง หรือกดปุ่ม กลับสู่หน้าหลักด้านล่าง">
+
+<link rel="shortcut icon" href="../images/c3ae341f-c65c-a032-a2d5-64d9260a19a7.png">
+<link rel="icon" type="image/x-icon" href="../images/c3ae341f-c65c-a032-a2d5-64d9260a19a7.png">
+<link rel="apple-touch-icon" href="../images/620848f1-99fd-30a9-41c1-64d927ffb030.jpg">
+<!-- Place favicon.ico in the root directory -->
+
+<meta name="facebook-domain-verification" content="xa2v0hv5ahj49cdpcilbn4444qbenw">
+<meta name="google-site-verification" content="8doj1b8jSHleIG-7s5XertWwBGrHH27KRPPuuO4-gIM">
+<link rel="stylesheet" href="../css/styles.css">
+
+
+
+<link rel="sitemap" type="application/xml" href="https://sajikacash.bentoweb.com/sitemap.xml">
+<!-- Fonts -->
+
+
+<meta name="theme-color" content="#ffffff">
+<meta name="robots" content="index, follow">
+<meta name="author" content="SAJIKA CASH">
+<meta name="lang" content="th">
+<link rel="manifest" href="https://sajikacash.bentoweb.com/manifest.json">
+
+
+<!-- Facebook Pixel Code -->
+			<script>
+			!function(f,b,e,v,n,t,s)
+			{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+			n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+			if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+			n.queue=[];t=b.createElement(e);t.async=!0;
+			t.src=v;s=b.getElementsByTagName(e)[0];
+			s.parentNode.insertBefore(t,s)}(window, document,'script',
+			'https://connect.facebook.net/en_US/fbevents.js');
+			fbq('init', '5985359948167348', {}, {"agent":"BentoWeb V3"});fbq('init', '1675388249644088', {}, {"agent":"BentoWeb V3"});
+			fbq('track', 'PageView');
+			</script>
+			<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=5985359948167348&amp;ev=PageView&amp;noscript=1&amp;agent=1952d714fc41222bd1c2ba23d3ae94ab04b4a7451f4d094067a68bc099fe8dfe"><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1675388249644088&amp;ev=PageView&amp;noscript=1&amp;agent=1952d714fc41222bd1c2ba23d3ae94ab04b4a7451f4d094067a68bc099fe8dfe"></noscript>
+			<!-- End Facebook Pixel Code -->
+
+    <!-- Fonts -->
+    
+</head>
+
+<body>
+    <div id="fb-root"></div>
+
+<script>
+window.fbAsyncInit = function() {
+    FB.init({
+      xfbml            : true,
+      version          : "v5.0",
+      autoLogAppEvents : true
+    });
+};
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk/xfbml.customerchat.js";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>    <div id="app">
+        <div>
+            <div class="d-flex justify-content-between flex-column error-page">
+                <div class="d-flex justify-content-center flex-grow-1">
+                    <div class="align-self-center text-center container">
+    <img src="404.svg" class="img-fluid">
+    <div class="mt-5 d-flex justify-content-center">
+        <div class="text-break col-lg-6">
+            <h1 class="size25 notosans-600">
+                404: เราหาหน้านี้ไม่เจอ            </h1>
+            <p class="size18 text-muted">
+                หน้าที่คุณกำลังค้นหาไม่มีอยู่ กรุณาตรวจสอบ link อีกครั้ง หรือกดปุ่ม กลับสู่หน้าหลักด้านล่าง            </p>
+            <a href="https://sajikacash.bentoweb.com/th" target="_self" class="btn mt-4 px-4 btn-light">
+                กลับสู่หน้าหลัก            </a>
+        </div>
+    </div>
+</div>
+                </div>
+                                <div>
+                    <div class="container">
+                        <p class="text-center text-muted">
+                            Powered by <a href="https://www.bentoweb.com/th" title="BentoWeb">BentoWeb</a>
+                        </p>
+                    </div>
+                </div>
+                            </div>
+        </div>
+    </div>
+
+    <script>
+var langsSegment = '/th';
+var currency = {"currency_id":1,"name":"Thai Baht","iso4217":"THB","num":"764","symbol":"\u0e3f","symbol_left":"\u0e3f ","symbol_right":"","decimal_place":"2","active":true,"long_name":"THB (\u0e3f) - Thai Baht"};
+var storeName = 'SAJIKA CASH';
+var jsLang = {"cart":{"delete_title":"\u0e04\u0e38\u0e13\u0e15\u0e49\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e17\u0e35\u0e48\u0e08\u0e30\u0e25\u0e1a\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e32\u0e0a\u0e34\u0e49\u0e19\u0e19\u0e35\u0e49\u0e44\u0e2b\u0e21 ?","discount_code_cancel":"\u0e04\u0e38\u0e13\u0e15\u0e49\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e22\u0e01\u0e40\u0e25\u0e34\u0e01\u0e23\u0e2b\u0e31\u0e2a\u0e2a\u0e48\u0e27\u0e19\u0e25\u0e14\u0e19\u0e35\u0e49\u0e2b\u0e23\u0e37\u0e2d\u0e44\u0e21\u0e48?","edit_qty_validate":"\u0e01\u0e23\u0e38\u0e13\u0e32\u0e23\u0e30\u0e1a\u0e38\u0e08\u0e33\u0e19\u0e27\u0e19\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e32\u0e17\u0e35\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e41\u0e01\u0e49\u0e44\u0e02","failed_title":"\u0e44\u0e21\u0e48\u0e2a\u0e33\u0e40\u0e23\u0e47\u0e08","loyalty_point_cancel":"\u0e04\u0e38\u0e13\u0e15\u0e49\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e17\u0e35\u0e48\u0e08\u0e30\u0e22\u0e01\u0e40\u0e25\u0e34\u0e01\u0e01\u0e32\u0e23\u0e43\u0e0a\u0e49\u0e41\u0e15\u0e49\u0e21\u0e2a\u0e30\u0e2a\u0e21\u0e44\u0e2b\u0e21?","product_set_stock_not_available":"\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e32\u0e1a\u0e32\u0e07\u0e0a\u0e34\u0e49\u0e19\u0e43\u0e19\u0e40\u0e0b\u0e15\u0e44\u0e21\u0e48\u0e40\u0e1e\u0e35\u0e22\u0e07\u0e1e\u0e2d\u0e15\u0e48\u0e2d\u0e01\u0e32\u0e23\u0e2a\u0e31\u0e48\u0e07\u0e0b\u0e37\u0e49\u0e2d \u0e01\u0e23\u0e38\u0e13\u0e32\u0e15\u0e34\u0e14\u0e15\u0e48\u0e2d\u0e23\u0e49\u0e32\u0e19\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e2a\u0e2d\u0e1a\u0e16\u0e32\u0e21\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e40\u0e1e\u0e34\u0e48\u0e21\u0e40\u0e15\u0e34\u0e21","stock_not_available":"\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e32\u0e44\u0e21\u0e48\u0e40\u0e1e\u0e35\u0e22\u0e07\u0e1e\u0e2d\u0e15\u0e48\u0e2d\u0e01\u0e32\u0e23\u0e2a\u0e31\u0e48\u0e07\u0e0b\u0e37\u0e49\u0e2d \u0e01\u0e23\u0e38\u0e13\u0e32\u0e15\u0e34\u0e14\u0e15\u0e48\u0e2d\u0e23\u0e49\u0e32\u0e19\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e2a\u0e2d\u0e1a\u0e16\u0e32\u0e21\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e40\u0e1e\u0e34\u0e48\u0e21\u0e40\u0e15\u0e34\u0e21"},"delete_confirm":"\u0e04\u0e38\u0e13\u0e15\u0e49\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e08\u0e30\u0e25\u0e1a\u0e43\u0e0a\u0e48\u0e2b\u0e23\u0e37\u0e2d\u0e44\u0e21\u0e48?","error":{"load_component_failed":"\u0e42\u0e2b\u0e25\u0e14\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e44\u0e21\u0e48\u0e2a\u0e33\u0e40\u0e23\u0e47\u0e08 \u0e01\u0e23\u0e38\u0e13\u0e32\u0e23\u0e35\u0e40\u0e1f\u0e23\u0e0a\u0e2b\u0e19\u0e49\u0e32\u0e19\u0e35\u0e49\u0e2d\u0e35\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07 \u0e2b\u0e23\u0e37\u0e2d\u0e01\u0e14 Ctrl + F5","session_expired_txt":"Session expired. Please press OK to continue.","try_title":"\u0e21\u0e35\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14","try_txt":"\u0e42\u0e1b\u0e23\u0e14\u0e25\u0e2d\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e2d\u0e35\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07","validate_title":"\u0e42\u0e1b\u0e23\u0e14\u0e15\u0e23\u0e27\u0e08\u0e2a\u0e2d\u0e1a"},"fail_txt":"\u0e25\u0e49\u0e21\u0e40\u0e2b\u0e25\u0e27","success_txt":"\u0e2a\u0e33\u0e40\u0e23\u0e47\u0e08"};
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+
+
+<script>
+// window.dataLayer = window.dataLayer || [];
+// function gtag(){dataLayer.push(arguments);}
+// gtag('js', new Date());
+
+//----------------ย้ายไปโหลด config ฝั่ง Vue แทน ----------------
+// gtag('config', 'UA-9716425-19');
+
+// // 	// 		gtag('config', 'G-CGFJ7WMMQM');
+// 	// 		gtag('config', 'GTM-5BGXW4M');
+// 	// 		gtag('config', 'G-K69XGBCY3H');
+// 	// // // </script>
+
+
+
+
+
+<div class="fb-customerchat" attribution="setup_tool" page_id="1724158761186369" greeting_dialog_display="hide" theme_color logged_in_greeting logged_out_greeting>
+</div>
+
+<script>
+$(function () {
+	dgTrack.utmValues({
+		cookie_name: 'futm',
+		cookie_duration: 30,
+		attributionType: 'first',
+		callback : function(obj) {
+			//console.log(obj);
+
+			 
+				 
+					if (typeof fbq !== "undefined") {
+						// Insert your event tracking code here : facebook custom event example //
+						fbq('trackSingleCustom', "5985359948167348" ,'FirstVisit', {
+							'source': obj['source'],
+							'medium': obj['medium'],
+							'campaign': obj['campaign'],
+							'landing_page': obj['landingPage'],
+							'acquisition_date': obj['acquisitionDate'],
+							'acquisition_month': obj['acquisitionMonth'],
+						});
+					}
+				 
+					if (typeof fbq !== "undefined") {
+						// Insert your event tracking code here : facebook custom event example //
+						fbq('trackSingleCustom', "1675388249644088" ,'FirstVisit', {
+							'source': obj['source'],
+							'medium': obj['medium'],
+							'campaign': obj['campaign'],
+							'landing_page': obj['landingPage'],
+							'acquisition_date': obj['acquisitionDate'],
+							'acquisition_month': obj['acquisitionMonth'],
+						});
+					}
+									}
+	});
+});
+</script>
+
+
+</body>
+
+</html>
